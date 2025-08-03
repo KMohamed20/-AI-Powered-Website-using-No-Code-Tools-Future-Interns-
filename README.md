@@ -2,10 +2,10 @@
 
 👨‍💻 Créateur
 Khalid Ag Mohamed Aly
-📧 Email: [votre-email]
+📧 Email: [alansarymohamed38@gmail.com]
 🌐 Portfolio: https://khalidgpt.tech
 📅 Stage: Future Interns - Juillet 2025
-🔗 LinkedIn: [votre-linkedin]
+🔗 LinkedIn: [https://www.linkedin.com/in/khalid-ag-mohamed-aly?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BBq3QuUMOTgqn9cL4LPP3KQ%3D%3D]
 
 🎯 Objectif du Projet
 Développer un site web personnel intégrant des fonctionnalités d'Intelligence Artificielle en utilisant des outils no-code modernes. Le site combine portfolio professionnel, génération de contenu IA, et automatisation intelligente.
